@@ -1,0 +1,5 @@
+286 - full spectrum before starting irrad for 14min
+irrad
+TA
+
+len : 21818

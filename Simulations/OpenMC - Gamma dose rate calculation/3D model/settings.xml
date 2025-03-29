@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+  <run_mode>fixed source</run_mode>
+  <particles>100000</particles>
+  <batches>200</batches>
+  <inactive>0</inactive>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="10.455 0.0 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="10.365556025663187 1.3646513396606392 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="10.09875451385221 2.7059531165468544 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="9.659160512405503 4.000955285377014 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="9.054295596566307 5.227499999999999 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="8.294509172744863 6.364600740286175 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="7.392801397305355 7.3928013973053535 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="6.364600740286175 8.294509172744863 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="5.227500000000001 9.054295596566305 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="4.000955285377014 9.659160512405503 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="2.7059531165468544 10.09875451385221 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="1.3646513396606406 10.365556025663187 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="6.401841142542789e-16 10.455 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-1.3646513396606395 10.365556025663187 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-2.705953116546853 10.09875451385221 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-4.000955285377011 9.659160512405505 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-5.227499999999997 9.054295596566307 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-6.364600740286175 8.294509172744863 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-7.3928013973053535 7.392801397305355 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-8.294509172744863 6.364600740286177 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-9.054295596566307 5.227499999999999 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-9.659160512405503 4.000955285377015 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-10.098754513852208 2.705953116546857 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-10.365556025663187 1.3646513396606437 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-10.455 1.2803682285085577e-15 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-10.365556025663187 -1.3646513396606412 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-10.09875451385221 -2.705953116546855 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-9.659160512405505 -4.000955285377013 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-9.054295596566307 -5.227499999999997 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-8.294509172744863 -6.364600740286175 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-7.392801397305359 -7.39280139730535 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-6.364600740286177 -8.294509172744862 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-5.2275000000000045 -9.054295596566304 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-4.000955285377011 -9.659160512405505 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-2.705953116546853 -10.09875451385221 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-1.36465133966064 -10.365556025663187 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="-1.9205523427628366e-15 -10.455 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="1.3646513396606361 -10.365556025663189 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="2.7059531165468496 -10.09875451385221 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="4.000955285377008 -9.659160512405505 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="5.227500000000001 -9.054295596566305 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="6.364600740286166 -8.294509172744869 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="7.392801397305353 -7.392801397305356 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="8.294509172744862 -6.364600740286177 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="9.054295596566304 -5.2275000000000045 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="9.659160512405505 -4.000955285377011 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="10.098754513852207 -2.705953116546863 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <source particle="photon" strength="0.020833333333333332" type="independent">
+    <space origin="10.365556025663187 -1.3646513396606403 0.0" type="cylindrical">
+      <r parameters="0.0 0.6842781498600269" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+      <z parameters="-10.555 10.555" type="uniform"/>
+    </space>
+    <angle type="isotropic"/>
+    <energy type="discrete">
+      <parameters>1173228.0 1332492.0 0.49966822230206676 0.5003317776979331</parameters>
+    </energy>
+  </source>
+  <photon_transport>true</photon_transport>
+  <verbosity>5</verbosity>
+  <temperature_method>interpolation</temperature_method>
+  <temperature_range>77 300</temperature_range>
+</settings>

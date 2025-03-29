@@ -1,0 +1,16 @@
+365 - full spectrum before starting irrad for 14min
+irrad
+TA
+
+4075 - full spectrum before starting second irrad for 14min
+irrad
+TA
+
+7588 - full spectrum before starting second irrad for 14min
+irrad
+TA
+
+9433 - full spectrum after
+
+
+

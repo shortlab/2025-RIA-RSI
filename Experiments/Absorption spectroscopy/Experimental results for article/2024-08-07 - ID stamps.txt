@@ -1,0 +1,7 @@
+339 - full spectrum before starting irrad for 14min
+failed attempt to move drawer down
+391 - full spectrum before starting irrad for 14min
+irrad
+TA
+
+len : 21816
